@@ -72,7 +72,6 @@ h1, h2, h3, h4, h5, h6 {
 body {
   max-width: 95%;
   font-family: "Raleway", sans-serif;
-  font-size: 1rem;
   font-weight: 300;
   margin: 0 auto;
   line-height: 1.2;
@@ -100,7 +99,7 @@ body {
 
 /*header*/
 .header-logo img {
-  width: 3em;
+  width: 54px;
 }
 .menu {
   display: flex;
@@ -122,7 +121,7 @@ body {
   flex-direction: row;
   justify-content: space-around;
   flex-wrap: wrap;
-  font-size: 1.2rem;
+  font-size: 20px;
 }
 
 .header__menu a {
@@ -234,7 +233,7 @@ flex-grow: 1;
 .main__banner-top h1 {
   color: #fff;
   text-shadow: 3px 3px 5px #000000;
-  font-size: 3.5rem;
+  font-size: 56px;
   font-weight: 200;
   padding: 0px 30px;
   width: 44%;
@@ -254,7 +253,7 @@ flex-grow: 1;
 
 .main-row-top p {
   display: block;
-  font-size: 2rem;
+  font-size: 32px;
   padding: 50px 0px;
   text-align: justify;
   text-indent: 30px;
@@ -263,7 +262,7 @@ flex-grow: 1;
 .main-row-bottom h2 {
   display: inline-block;
   color: #000;
-  font-size: 3rem;
+  font-size: 48px;
   font-weight: 200;
   padding: 0px 30px;
   border-bottom: 3px solid;
@@ -370,7 +369,7 @@ flex-grow: 1;
 }
 
 .footer img {
-  width: 3em;
+  width: 54px;
 }
 
 .image.first {
@@ -408,14 +407,14 @@ flex-grow: 1;
   .main__banner-top h1 {
     color: #fff;
     text-shadow: 3px 3px 5px #000000;
-    font-size: 3rem;
+    font-size: 48px;
     font-weight: 200;
     padding: 0px 30px;
     width: 44%;
   }
   .main-row-top p {
     display: block;
-    font-size: 1.5rem;
+    font-size: 24px;
     padding: 50px 15px;
     text-align: justify;
     text-indent: 30px;
@@ -427,7 +426,7 @@ flex-grow: 1;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 1rem;
+    font-size: 20px;
     text-transform: uppercase;
     color: #000;
     font-weight: 300;
